@@ -26,6 +26,7 @@
  click                       BSD
  apktool                     Apache Software License (Apache 2.0)     qark/qark/lib/apktool
  dex2jar                     Apache Software License (Apache 2.0)     qark/qark/lib/dex2jar-2.0
+ dex2jar                     Apache Software License (Apache 2.0)     qark/qark/lib/dex2jar-2.1
  procyon                     Apache Software License (Apache 2.0)     qark/qark/lib/decompilers/procyon-decompiler-1.0.jar
  cfr                         MIT                                      qark/qark/lib/decompilers/cfr_0_124.jar
  fernflower                  Apache Software License (Apache 2.0)     qark/qark/lib/decompilers/fernflower.jar
